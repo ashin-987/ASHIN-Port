@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/ASHIN-Port/static/css/main.317a0cdf.css",
-    "main.js": "/ASHIN-Port/static/js/main.a9ea3b92.js",
+    "main.js": "/ASHIN-Port/static/js/main.7b9d956b.js",
     "static/media/bannerImg.png": "/ASHIN-Port/static/media/bannerImg.9a727d2dd186c3c18fec.png",
     "static/media/contactImg.png": "/ASHIN-Port/static/media/contactImg.8ddfbfd11798f881db54.png",
     "static/media/logo.png": "/ASHIN-Port/static/media/logo.94e361e4976bea3085d2.png",
     "index.html": "/ASHIN-Port/index.html",
     "main.317a0cdf.css.map": "/ASHIN-Port/static/css/main.317a0cdf.css.map",
-    "main.a9ea3b92.js.map": "/ASHIN-Port/static/js/main.a9ea3b92.js.map"
+    "main.7b9d956b.js.map": "/ASHIN-Port/static/js/main.7b9d956b.js.map"
   },
   "entrypoints": [
     "static/css/main.317a0cdf.css",
-    "static/js/main.a9ea3b92.js"
+    "static/js/main.7b9d956b.js"
   ]
 }
